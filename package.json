@@ -1,0 +1,26 @@
+{
+  "name": "@feryardiant/commitlint-config",
+  "version": "0.0.0",
+  "description": "My personal commitlint config based on @commitlint/config-conventional",
+  "repository": "github:feryardiant/commitlint-config",
+  "author": "Fery Wardiyanto <ferywardiyanto@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feryardiant/commitlint-config/issues"
+  },
+  "homepage": "https://github.com/feryardiant/commitlint-config#readme",
+  "main": "commitlint.config.js",
+  "files": [
+    "commitlint.config.js"
+  ],
+  "scripts": {
+    "release": "standard-version -s"
+  },
+  "dependencies": {
+    "@commitlint/config-conventional": "^9.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "standard-version": "^8.0.0"
+  }
+}

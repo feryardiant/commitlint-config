@@ -1,6 +1,6 @@
 {
   "name": "@feryardiant/commitlint-config",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "My personal commitlint config based on @commitlint/config-conventional",
   "repository": "github:feryardiant/commitlint-config",
   "author": "Fery Wardiyanto <ferywardiyanto@gmail.com>",
@@ -20,7 +20,7 @@
     "@commitlint/config-conventional": "^9.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^8.3.5",
-    "standard-version": "^8.0.0"
+    "@commitlint/cli": "^9.0",
+    "standard-version": "^8.0"
   }
 }

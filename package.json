@@ -17,10 +17,10 @@
     "release": "standard-version -s"
   },
   "dependencies": {
-    "@commitlint/config-conventional": "^9.0"
+    "@commitlint/config-conventional": "^11.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^9.0",
-    "standard-version": "^8.0"
+    "@commitlint/cli": "^11.0",
+    "standard-version": "^9.0"
   }
 }

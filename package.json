@@ -1,6 +1,6 @@
 {
   "name": "@feryardiant/commitlint-config",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "My personal commitlint config based on @commitlint/config-conventional",
   "repository": "github:feryardiant/commitlint-config",
   "author": "Fery Wardiyanto <ferywardiyanto@gmail.com>",
